@@ -1,5 +1,5 @@
 # Calculadora IMC
 
-Calculadora para medir o Indice de Massa Corporar
+Calculadora para medir o Índice de Massa Corporal
 
 Desenvolvido por Bruno Trindade e Leonardo Maia
