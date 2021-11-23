@@ -1,4 +1,4 @@
-# CalculadoraIMC
+# Calculadora IMC
 
 Calculadora para medir o Indice de Massa Corporar
 
